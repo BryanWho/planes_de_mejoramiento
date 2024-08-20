@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.22)  20 AUG 2024 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.22)  20 AUG 2024 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -525,7 +525,7 @@ Package pdftex.def Info: funciones.png  used on input line 113.
 File: concepto_de_limite.png Graphic file (type png)
 <use concepto_de_limite.png>
 Package pdftex.def Info: concepto_de_limite.png  used on input line 119.
-(pdftex.def)             Requested size: 328.42744pt x 465.74063pt.
+(pdftex.def)             Requested size: 369.47696pt x 523.95267pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
@@ -535,7 +535,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 File: estimacion_limite.png Graphic file (type png)
 <use estimacion_limite.png>
 Package pdftex.def Info: estimacion_limite.png  used on input line 125.
-(pdftex.def)             Requested size: 347.79616pt x 262.87967pt.
+(pdftex.def)             Requested size: 270.50877pt x 204.46246pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
@@ -548,7 +548,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: tabla_limite.png Graphic file (type png)
 <use tabla_limite.png>
 Package pdftex.def Info: tabla_limite.png  used on input line 130.
-(pdftex.def)             Requested size: 365.86348pt x 161.7026pt.
+(pdftex.def)             Requested size: 284.56117pt x 125.769pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
@@ -557,8 +557,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<propiedades.png, id=37, 416.55624pt x 260.975pt>
+File: propiedades.png Graphic file (type png)
+<use propiedades.png>
+Package pdftex.def Info: propiedades.png  used on input line 134.
+(pdftex.def)             Requested size: 291.58737pt x 182.68126pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [4 <./concepto_de_limite.png>] [5 <./estimacion_limite.png> <./tabla_limite.png
->] (./once_plan_de_mejoramiento.aux
+> <./propiedades.png>] (./once_plan_de_mejoramiento.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -571,10 +584,10 @@ ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12945 strings out of 474222
- 198796 string characters out of 5748733
+ 12952 strings out of 474222
+ 198949 string characters out of 5748733
  1934975 words of memory out of 5000000
- 35026 multiletter control sequences out of 15000+600000
+ 35033 multiletter control sequences out of 15000+600000
  567342 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,13n,79p,562b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -582,10 +595,10 @@ Here is how much of TeX's memory you used:
 fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 >
-Output written on once_plan_de_mejoramiento.pdf (5 pages, 234877 bytes).
+Output written on once_plan_de_mejoramiento.pdf (5 pages, 250873 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  14 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
