@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  20 AUG 2024 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  20 AUG 2024 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,33 +520,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
  []
 
 
-Overfull \hbox (14.55583pt too wide) in paragraph at lines 88--89
-[]\T1/cmr/bx/n/12 D2: \T1/cmr/m/n/12 Reconoce las graficas de seno y coseno y l
-as dibuja a partir de la circunferencia
+Overfull \hbox (1.63397pt too wide) in paragraph at lines 86--87
+[]\T1/cmr/bx/n/12 D1: \T1/cmr/m/n/12 Reconoce la ecuación de recta, encuentra r
+ectas paralelas y perpendiculares
  []
 
 [2]
-Overfull \hbox (30.15338pt too wide) in paragraph at lines 96--97
-[]\T1/cmr/bx/n/12 D6: \T1/cmr/m/n/12 Reconoce la gráfica de las funciones trigo
-nométricas a partir de la transformación
+<grafico.png, id=29, 523.9575pt x 396.48125pt>
+File: grafico.png Graphic file (type png)
+<use grafico.png>
+Package pdftex.def Info: grafico.png  used on input line 117.
+(pdftex.def)             Requested size: 261.9781pt x 198.24013pt.
+<sustitucion.png, id=30, 1084.05pt x 395.4775pt>
+File: sustitucion.png Graphic file (type png)
+<use sustitucion.png>
+Package pdftex.def Info: sustitucion.png  used on input line 126.
+(pdftex.def)             Requested size: 433.61232pt x 158.18819pt.
+
+Overfull \hbox (15.35864pt too wide) in paragraph at lines 126--127
+[][] 
  []
 
 
-Overfull \hbox (32.82915pt too wide) in paragraph at lines 100--101
-[]\T1/cmr/bx/n/12 D8: \T1/cmr/m/n/12 Encuentra la grafica de funciones trigonom
-étricas a partir de las transformaciones
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<igualacion.png, id=31, 1035.87pt x 398.48875pt>
+File: igualacion.png Graphic file (type png)
+<use igualacion.png>
+Package pdftex.def Info: igualacion.png  used on input line 136.
+(pdftex.def)             Requested size: 414.34065pt x 159.39267pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<eliminacion.png, id=32, 1048.91875pt x 422.57875pt>
+File: eliminacion.png Graphic file (type png)
+<use eliminacion.png>
+Package pdftex.def Info: eliminacion.png  used on input line 145.
+(pdftex.def)             Requested size: 419.56006pt x 169.0285pt.
+
+Overfull \hbox (1.30638pt too wide) in paragraph at lines 145--146
+[][] 
  []
 
-[3] (./octavo_plan_de_mejoramiento.aux)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./grafico.png>] [4 <./sustitucion.png> <./igualacion.png> <./eliminacion.pn
+g>] (./octavo_plan_de_mejoramiento.aux)
 Package rerunfilecheck Info: File `octavo_plan_de_mejoramiento.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12183 strings out of 480247
- 188701 string characters out of 5896151
+ 12211 strings out of 480247
+ 189203 string characters out of 5896151
  502086 words of memory out of 5000000
- 29953 multiletter control sequences out of 15000+600000
+ 29976 multiletter control sequences out of 15000+600000
  478869 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,13n,76p,386b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -556,10 +585,10 @@ Here is how much of TeX's memory you used:
 cbx1728.600pk> </home/bryanwho/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/
 ec/ecrm1200.600pk> </home/bryanwho/.texlive2021/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecbx1200.600pk>
-Output written on octavo_plan_de_mejoramiento.pdf (3 pages, 133117 bytes).
+Output written on octavo_plan_de_mejoramiento.pdf (4 pages, 1538620 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
